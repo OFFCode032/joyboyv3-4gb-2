@@ -194,7 +194,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=script.SILVER_TXT,
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup([[
-                InlineKeyboardButton("𝖯𝖺𝗒 𝖳𝗈 𝖠𝖽𝗆𝗂𝗇", url="https://t.me/sonali_sahaibot")
+                InlineKeyboardButton("𝖯𝖺𝗒 𝖳𝗈 𝖠𝖽𝗆𝗂𝗇", url="https://t.me/mrx369official_support_bot")
             ],[
                 InlineKeyboardButton("⋞ ʙᴀᴄᴋ", callback_data = "free"),
                 InlineKeyboardButton("2 / 4", callback_data = "pages"),
@@ -209,7 +209,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=script.GOLDEN_TXT,
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup([[
-                InlineKeyboardButton("𝖯𝖺𝗒 𝖳𝗈 𝖠𝖽𝗆𝗂𝗇", url="https://t.me/sonali_sahaibot")
+                InlineKeyboardButton("𝖯𝖺𝗒 𝖳𝗈 𝖠𝖽𝗆𝗂𝗇", url="https://t.me/mrx369official_support_bot")
             ],[
                 InlineKeyboardButton("⋞ ʙᴀᴄᴋ", callback_data = "silver"),
                 InlineKeyboardButton("3 / 4", callback_data = "pages"),
@@ -224,7 +224,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=script.DIAMOND_TXT,
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup([[
-                InlineKeyboardButton("𝖯𝖺𝗒 𝖳𝗈 𝖠𝖽𝗆𝗂𝗇", url="https://t.me/sonali_sahaibot")
+                InlineKeyboardButton("𝖯𝖺𝗒 𝖳𝗈 𝖠𝖽𝗆𝗂𝗇", url="https://t.me/mrx369official_support_bot")
             ],[
                 InlineKeyboardButton("⋞ ʙᴀᴄᴋ", callback_data = "gold"),
                 InlineKeyboardButton("4 / 4", callback_data = "pages"),
@@ -259,7 +259,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=script.SOURCE_TXT,
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup([[
-                InlineKeyboardButton("Contact To Developer", url = "https://t.me/sonali_sahaibot")
+                InlineKeyboardButton("Contact To Developer", url = "https://t.me/mrx369official_support_bot")
             ],[
                 InlineKeyboardButton("✘ Cʟᴏꜱᴇ / ᴅᴇʟᴇᴛᴇ⚠️", callback_data = "cancel")
 	    ]])
