@@ -11,11 +11,11 @@ class script(object):
 ├◈ Sᴇᴄᴏɴᴅ Bᴏᴛ : <a href=https://t.me/Dev369devil_4GB_File_Renamer_Bot>𝟺GB Rᴇɴᴀᴍᴇʀ Bᴏᴛ</a> 
 ├◈ Owner : <a href=https://t.me/mrx369official_support_bot>Mrx369official</a>
 ├◈ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/sonali_sahaibot>Sᴏɴᴀʟɪ✨</a> 
-├◈ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ: <a href=https://t.me/missqueenbotx>𝙈𝙞𝙨𝙨𝙌𝙪𝙚𝙚𝙣𝘽𝙤𝙩 𝙭</a>   
+├◈ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ: <a href=https://t.me/+upoc5TQpjFJmZGZl>All Bots - 369</a>   
 ├◈ Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
 ├◈ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pʏᴛʜᴏɴ 𝟹</a>
 ├◈ Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
-├◈ Bᴜɪʟᴅ Vᴇʀꜱɪᴏɴ: <a href=https://t.me/Content_Updates_369>Rᴇɴᴀᴍᴇʀ V3</a>  
+├◈ Bᴜɪʟᴅ Vᴇʀꜱɪᴏɴ: <a href=https://t.me/+9tl-HUIJj2ExYTA9>Rᴇɴᴀᴍᴇʀ V3</a>  
 ╰───────────────⍟</b>"""
 
     STATS = """ 
