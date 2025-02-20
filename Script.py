@@ -3,17 +3,19 @@ class script(object):
     
 ◈ I Aᴍ A Pᴏᴡᴇʀғᴜʟ 4GB Fɪʟᴇ Rᴇɴᴀᴍᴇʀ Bᴏᴛ.
 ◈ I Cᴀɴ Rᴇɴᴀᴍᴇ Fɪʟᴇs, Cʜᴀɴɢᴇ Tʜᴜᴍʙɴᴀɪʟs, Cᴏɴᴠᴇʀᴛ Bᴇᴛᴡᴇᴇɴ Vɪᴅᴇᴏ Aɴᴅ Fɪʟᴇ, Aɴᴅ Sᴜᴘᴘᴏʀᴛ Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟs Aɴᴅ Cᴀᴘᴛɪᴏɴs.\n
-<blockquote>• Mᴀɪɴᴛᴀɪɴᴇʀ: <a href="https://t.me/missqueenbotx">@MɪꜱꜱǫᴜᴇᴇɴBᴏᴛx</a></blockquote></b>"""
+• Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : <a href=https://t.me/+-66Rn1OysMYyYTI1>369 Bots✨</a>
+</b>"""
 
     ABOUT_TXT = """<b>╭───────────⍟
-├◈ ᴍy ɴᴀᴍᴇ : Rᴇɴᴀᴍᴇʀ 4GB V3
-├◈ Oᴡɴᴇʀ: : <a href=https://t.me/sonali_sahaibot>Sᴏɴᴀʟɪ</a> 
-├◈ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/CoderLuffyTalkBot>ʟᴜғғʏ</a> 
+├◈ ᴍy ɴᴀᴍᴇ : <a href=https://t.me/Mrx369official_4GB_Renamer_Bot>Rᴇɴᴀᴍᴇʀ 4GB</a>
+├◈ Sᴇᴄᴏɴᴅ Bᴏᴛ : <a href=https://t.me/Dev369devil_4GB_File_Renamer_Bot>𝟺GB Rᴇɴᴀᴍᴇʀ Bᴏᴛ</a> 
+├◈ Owner : <a href=https://t.me/mrx369official_support_bot>Mrx369official</a>
+├◈ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/sonali_sahaibot>Sᴏɴᴀʟɪ✨</a> 
 ├◈ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ: <a href=https://t.me/missqueenbotx>𝙈𝙞𝙨𝙨𝙌𝙪𝙚𝙚𝙣𝘽𝙤𝙩 𝙭</a>   
 ├◈ Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
 ├◈ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pʏᴛʜᴏɴ 𝟹</a>
 ├◈ Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
-├◈ Bᴜɪʟᴅ Vᴇʀꜱɪᴏɴ: <a href=https://t.me/missqueenbotx>Rᴇɴᴀᴍᴇʀ V3</a> 
+├◈ Bᴜɪʟᴅ Vᴇʀꜱɪᴏɴ: <a href=https://t.me/Content_Updates_369>Rᴇɴᴀᴍᴇʀ V3</a>  
 ╰───────────────⍟</b>"""
 
     STATS = """ 
@@ -125,10 +127,7 @@ Vᴀʟɪᴅɪᴛʏ: 6𝟶ᴅᴀʏs
 Dᴀɪʟʏ Uᴘʟᴏᴀᴅ ʟɪᴍɪᴛ : 𝟷𝟶𝟶GB
 Pʀɪᴄᴇ Rs.179
 Vᴀʟɪᴅɪᴛʏ: 9𝟶ᴅᴀʏs
- 
-# <blockquote>**ᴜᴘɪ ɪᴅ ➩**:- <code>sonalisaha1564@okhdfcbank</code></blockquote>
- 
-**Aғᴛᴇʀ Pᴀʏᴍᴇɴᴛ Sᴇɴᴅ Sᴄʀᴇᴇɴsʜᴏᴛs Tᴏ Aᴅᴍɪɴ**"""
+"""
     
     CAPTION_TXT = """<b><blockquote><u>How To Set A Custom Caption</u></blockquote>
 
