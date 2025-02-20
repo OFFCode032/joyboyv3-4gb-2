@@ -259,7 +259,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=script.SOURCE_TXT,
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup([[
-                InlineKeyboardButton("Contact To Developer", url = "https://t.me/mrx369official_support_bot")
+                InlineKeyboardButton("Contact To Developer", url = "https://t.me/sonali_sahaibot")
             ],[
                 InlineKeyboardButton("✘ Cʟᴏꜱᴇ / ᴅᴇʟᴇᴛᴇ⚠️", callback_data = "cancel")
 	    ]])
