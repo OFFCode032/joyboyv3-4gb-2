@@ -64,7 +64,7 @@ async def start(client,message):
 			caption=script.START_TXT.format(message.from_user.mention),
 			reply_markup=InlineKeyboardMarkup([[
 				InlineKeyboardButton("Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ", url=f"https://t.me/{CHANNEL}"),
-				InlineKeyboardButton("Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ", url=f"https://t.me/{SUPPORT_GROUP}")
+				InlineKeyboardButton("Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ", url=f"https://t.me/+XFTfRRjtdgswOTM1")
 			],[
 				InlineKeyboardButton("◉⁠ Hᴇʟᴘ ◉", callback_data="help"),
 				InlineKeyboardButton("◉⁠ Aʙᴏᴜᴛ ◉", callback_data="about")
@@ -83,7 +83,7 @@ async def start(client,message):
 					caption=script.START_TXT.format(message.from_user.mention),
 					reply_markup=InlineKeyboardMarkup([[
 						InlineKeyboardButton("Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ" ,url=f"https://t.me/{CHANNEL}"),
-						InlineKeyboardButton("Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ", url=f"https://t.me/{SUPPORT_GROUP}")
+						InlineKeyboardButton("Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ", url=f"https://t.me/+XFTfRRjtdgswOTM1")
 					],[
 						InlineKeyboardButton("◉⁠ Hᴇʟᴘ ◉", callback_data="help"),
 						InlineKeyboardButton("◉⁠ Aʙᴏᴜᴛ ◉", callback_data="about")
@@ -104,7 +104,7 @@ async def start(client,message):
 				 caption=script.START_TXT.format(message.from_user.mention),
 				 reply_markup=InlineKeyboardMarkup([[
 						InlineKeyboardButton("Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ" ,url=f"https://t.me/{CHANNEL}"),
-						InlineKeyboardButton("Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ", url=f"https://t.me/{SUPPORT_GROUP}")
+						InlineKeyboardButton("Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ", url=f"https://t.me/+XFTfRRjtdgswOTM1")
 					],[
 						InlineKeyboardButton("◉⁠ Hᴇʟᴘ ◉", callback_data="help"),
 						InlineKeyboardButton("◉⁠ Aʙᴏᴜᴛ ◉", callback_data="about")
@@ -123,7 +123,7 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview=True,
             reply_markup = InlineKeyboardMarkup([[
                 InlineKeyboardButton('Uᴩᴅᴀᴛᴇꜱ', url=f'https://t.me/{CHANNEL}'),
-                InlineKeyboardButton('Sᴜᴩᴩᴏʀᴛ', url=f'https://t.me/{SUPPORT_GROUP}')
+                InlineKeyboardButton('Sᴜᴩᴩᴏʀᴛ', url=f'https://t.me/+XFTfRRjtdgswOTM1')
                 ],[
                 InlineKeyboardButton('◉⁠ Hᴇʟᴘ ◉', callback_data='help'),
                 InlineKeyboardButton('◉⁠ Aʙᴏᴜᴛ ◉', callback_data='about')
